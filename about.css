@@ -61,18 +61,6 @@ img{
     color: #b6bae5;
     text-decoration: none;
 }
-.text p a:link{
-    color: #b6bae5;
-    text-decoration: none!important;
-}
-.text p a:visited{
-    color: #b6bae5;
-    text-decoration: none!important;
-}
-.text p a:active{
-    color: #b6bae5;
-    text-decoration: none!important;
-}
 .text p a:hover{
     color: #dde0ff;
 }
