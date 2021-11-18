@@ -59,6 +59,7 @@ img{
 }
 .text a{
     color: #b6bae5;
+    text-decoration: none;
 }
 .text a:hover{
     color: #dde0ff;
