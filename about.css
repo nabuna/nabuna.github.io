@@ -57,19 +57,23 @@ img{
     border: 2px solid #464646;
     border-radius: 2px;
 }
-.text a{
+.text p a{
     color: #b6bae5;
     text-decoration: none;
 }
-.text a:link{
+.text p a:link{
     color: #b6bae5;
     text-decoration: none!important;
 }
-.text a:visited{
+.text p a:visited{
     color: #b6bae5;
     text-decoration: none!important;
 }
-.text a:hover{
+.text p a:active{
+    color: #b6bae5;
+    text-decoration: none!important;
+}
+.text p a:hover{
     color: #dde0ff;
 }
 .options{
