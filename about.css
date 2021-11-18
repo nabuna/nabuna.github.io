@@ -62,9 +62,11 @@ img{
     text-decoration: none;
 }
 .text a:link{
+    color: #b6bae5;
     text-decoration: none!important;
 }
 .text a:visited{
+    color: #b6bae5;
     text-decoration: none!important;
 }
 .text a:hover{
