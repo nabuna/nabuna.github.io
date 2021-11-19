@@ -61,6 +61,10 @@ img{
     color: #b6bae5;
     text-decoration: none!important;
 }
+.text a:visited{
+    color: #b6bae5;
+    text-decoration: none;
+}
 .text a:hover{
     color: #dde0ff;
 }
