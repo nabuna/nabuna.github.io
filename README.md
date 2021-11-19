@@ -1,3 +1,3 @@
-# nabunafge.github.io
-https://nabunafge.github.io/
+# nabunafge
 Not very well written personal website.
+Link in description.
