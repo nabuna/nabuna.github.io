@@ -29,10 +29,12 @@ body{
     margin: 4em auto;
     margin-top: 2em;
 }
-img{
+.text img{
     display: flex;
     margin: 0 auto;
     max-width: 500px;
+    border: 2px solid #464646;
+    border-radius: 4px;
 }
 .img{
     display: flex;
@@ -57,6 +59,7 @@ img{
     background-color: #333333;
     border: 2px solid #464646;
     border-radius: 2px;
+    margin-bottom: 2em;
 }
 .text a{
     color: #b6bae5;
@@ -71,6 +74,7 @@ img{
     background-color: #333333;
     border: 2px solid #464646;
     border-radius: 2px;
+    margin-bottom: 1em;
 }
 .options a{
     color: rgb(221, 221, 221);
@@ -97,4 +101,8 @@ img{
 }
 .footer a:hover{
     color:rgb(255, 255, 255)
+}
+.end{
+    height: 20px;
+    width: 720px;
 }
