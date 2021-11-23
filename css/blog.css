@@ -106,11 +106,3 @@ body{
     height: 20px;
     width: 720px;
 }
-.dick{
-    background-color: rgb(156, 156, 156);
-    border: none;
-    border-radius: 10px;
-    max-width: 83%;
-    height: 1px;
-    opacity: 0.5;
-}
