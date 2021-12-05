@@ -106,3 +106,19 @@ body{
     height: 20px;
     width: 720px;
 }
+.top{
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    padding: 10px;
+    padding-top: 12px;
+    background-color: #333333;
+    border-radius: 2px;
+    border: 2px solid #464646;
+    z-index: 999999;
+}
+.top a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
