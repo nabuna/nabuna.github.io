@@ -9,6 +9,7 @@ html{
     font-family: monospace, serif;
 }
 body{
+    height: 100%;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -23,11 +24,12 @@ body{
 .container{
     display: block;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     justify-content: center;
     max-width: 720px;
     margin: 4em auto;
-    margin-top: 2em;
+    margin-top: 0em;
+    background-color: black;
 }
 img{
     display: flex;
@@ -42,8 +44,6 @@ img{
     display: inline-block;
 }
 .desc{
-    max-height: 35vh;
-    margin-top: 4em;
     color: rgb(221, 221, 221);
     max-width: 560px;
     text-align: center;
@@ -96,4 +96,15 @@ img{
 }
 .footer a:hover{
     color:rgb(255, 255, 255)
+}
+
+@media (max-width: 560px) {
+    .desc {
+        padding: 0px 20px;
+    }
+}
+@media (max-width: 518px) {
+    .list {
+        padding: 10px;
+    }
 }

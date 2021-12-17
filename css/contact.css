@@ -96,3 +96,17 @@ img{
 .footer a:hover{
     color:rgb(255, 255, 255)
 }
+
+@media (max-width: 560px) {
+    .desc {
+        padding: 20px;
+    }
+    .options {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 518px) {
+    .list {
+        padding: 10px;
+    }
+}
