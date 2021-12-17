@@ -117,6 +117,7 @@ img{
 @media (max-width: 353px) {
     .none {
         display: none;
+        
     }
 }
 
