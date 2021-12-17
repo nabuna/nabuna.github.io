@@ -23,7 +23,7 @@ body{
 .container{
     display: block;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     justify-content: center;
     max-width: 720px;
     margin: 4em auto;
