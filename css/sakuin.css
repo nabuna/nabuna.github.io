@@ -102,14 +102,23 @@ img{
 
 @media (max-width: 560px) {
     .desc {
-        padding: 20px;
-    }
-    .options {
-        margin-bottom: 20px;
+        padding: 0px 20px;
     }
 }
 @media (max-width: 518px) {
     .list {
         padding: 10px;
+    }
+}
+
+@media (max-width: 410px) {
+    .list {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 353px) {
+    .none {
+        display: none;
     }
 }

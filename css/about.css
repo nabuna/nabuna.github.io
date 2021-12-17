@@ -108,3 +108,16 @@ img{
         padding: 10px;
     }
 }
+
+@media (max-width: 410px) {
+    .list {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 353px) {
+    .none {
+        display: none;
+    }
+}
+
