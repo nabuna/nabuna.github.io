@@ -27,7 +27,7 @@ body{
     justify-content: center;
     max-width: 720px;
     margin: 4em auto;
-    margin-top: 2em;
+    margin-top: 0em;
 }
 img{
     display: flex;
