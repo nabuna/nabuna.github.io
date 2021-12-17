@@ -29,6 +29,7 @@ body{
     max-width: 720px;
     margin: 4em auto;
     margin-top: 0em;
+    background: #191919;
 }
 img{
     display: flex;
@@ -117,7 +118,7 @@ img{
 @media (max-width: 353px) {
     .none {
         display: none;
-        
+
     }
 }
 
