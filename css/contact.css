@@ -101,6 +101,9 @@ img{
     .desc {
         padding: 0px 20px;
     }
+    .none {
+        display: none;
+    }
 }
 @media (max-width: 518px) {
     .list {
@@ -111,11 +114,5 @@ img{
 @media (max-width: 410px) {
     .list {
         padding: 5px;
-    }
-}
-
-@media (max-width: 353px) {
-    .none {
-        display: none;
     }
 }
