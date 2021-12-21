@@ -1,0 +1,5 @@
+home
+profile
+listas: anime/manga/visual novels/openings y endings
+pagina por anime: informacion básica, evolucion de ventas, articulos relacionados
+anichart (proximos animes)/index animes de año ordenados por más votados
