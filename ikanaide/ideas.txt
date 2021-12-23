@@ -1,8 +1,0 @@
-home
-profile
-listas: anime/manga/visual novels/openings y endings
-pagina por anime: informacion básica, evolucion de ventas, articulos relacionados
-anichart (proximos animes)/index animes de año ordenados por más votados
-algo relacionado con grupos/watch parties/amino app
-placeholder img en la profile-picture
-not display items that havent been declared by the user
